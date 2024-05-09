@@ -1,0 +1,4 @@
+name = parth
+seatno = t190258546
+roll = 9
+dept = IT
